@@ -1,0 +1,10 @@
+aceituna - https://dle.rae.es/aceituna?m=form
+tenedor - https://dle.rae.es/tenedor?m=form
+palillo - https://dle.rae.es/palillo?m=form
+tutela - https://dle.rae.es/tutela?m=form
+querella - https://dle.rae.es/querella?m=form
+sátira - https://dle.rae.es/satira?m=form
+yemení - https://dle.rae.es/yemen%C3%AD?m=form
+polo - https://dle.rae.es/polo?m=form
+pollo - https://dle.rae.es/pollo?m=form
+agua - https://dle.rae.es/agua?m=form
